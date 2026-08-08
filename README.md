@@ -32,7 +32,7 @@ zenvyrolabs/
 │       └── LOGO.png
 ├── chroma_db/             ← Auto-created; persistent vector store
 ├── temp/                  ← Temporary upload staging area
-├── .env.example
+├── .env
 └── README.md
 ```
 
